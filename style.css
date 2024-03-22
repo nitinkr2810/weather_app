@@ -11,7 +11,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("Photos/Background/Background.png");
+    background-image: url("Photos/Background.png");
     background-size: cover;
 }
 
